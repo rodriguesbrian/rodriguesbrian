@@ -1,26 +1,51 @@
 # 👨🏻‍💻 Brian Rodrigues
 
+**Analista de Dados | SQL • Python • Tableau**
 
-`Analista de Dados`
+Sou **Yan Brian Rodrigues Coelho**, analista de dados em início de carreira com foco em resolver problemas de negócio através de dados.
 
+Tenho experiência prática com **SQL, Python (Pandas)** e **Tableau**, desenvolvendo análises exploratórias, dashboards interativos e avaliações de experimentos.
 
-Sou **Yan Brian Rodrigues Coelho**, tenho 23 anos e sou natural de São Paulo. Concluí o ensino médio em uma escola técnica, cursado em **Administração**. 
-Aprofundei meus conhecimentos técnicos através do bootcamp da TripleTen Online School sobre **Data Analysis**. 
+Atualmente, foco em:
+- Transformar dados brutos em insights acionáveis
+- Construir dashboards claros para tomada de decisão
+- Identificar padrões e oportunidades de negócio
 
-Focado em transformar dados em insights acionáveis para tomada de decisão.
+---
 
-## 🤖 Linguagens e Tecnologias
+## 🚀 Projeto em Destaque
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=py,mysql,pycharm,anaconda,git,sklearn")](https://skillicons.dev/)
+### 📊 Análise de Call Center (KPIs & Performance)
+- Construção de KPIs operacionais para avaliação de desempenho
+- Desenvolvimento de dashboard para monitoramento de resultados
+- Identificação de gargalos e oportunidades de melhoria
 
+### 🧪 Análise de Experimento A/B
+- Avaliação estatística de experimento
+- Análise de funil de conversão
+- Interpretação de impacto em métricas de negócio
 
+### 📚 Análise de Plataforma de Livros (SQL)
+- Exploração de base de dados para identificar tendências
+- Identificação de oportunidades de crescimento
+- Queries complexas para extração de insights
 
+🔗 https://github.com/rodriguesbrian/tt14_call_center
 
-## 📩 Contatos
+---
 
-Me conheça melhor em [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/rodrigues-brian)
+## 🛠️ Tecnologias
 
-Envie sua mensagem 📧 [![]()Mail](rodrigues_brian@outlook.com) 
+[![Tech Stack](https://skillicons.dev/icons?i=py,mysql,git,sklearn)](https://skillicons.dev/)
 
-<a href = "mailto:rodrigues_brian@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/rodrigues-brian" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
+
+## 📩 Contato
+
+<a href="mailto:rodrigues_brian@outlook.com">
+  <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/rodrigues-brian" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
