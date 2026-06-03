@@ -1,46 +1,46 @@
 # 👨🏻‍💻 Brian Rodrigues
 
-**Analista de Dados | SQL • Python • Tableau**
+**Data Analyst | Business Inteligence (BI) | SQL • Python • Tableau • Power BI • Excel**
 
-Sou **Yan Brian Rodrigues Coelho**, analista de dados em início de carreira com foco em resolver problemas de negócio através de dados.
+I'm **Yan Brian Rodrigues Coelho**, Entry-level data analyst focused on solving business problems through data.
 
-Tenho experiência prática com **SQL, Python (Pandas)** e **Tableau**, desenvolvendo análises exploratórias, dashboards interativos e avaliações de experimentos.
+I have practical experience with **SQL, Python (Pandas)**, **Tableau**, **Power BI** e **Excel** developing exploratory analyses, interactive dashboards, and experiment evaluations
 
-Atualmente, foco em:
-- Transformar dados brutos em insights acionáveis
-- Construir dashboards claros para tomada de decisão
-- Identificar padrões e oportunidades de negócio
-
----
-
-## 🚀 Projeto em Destaque
-
-### 📊 Análise de Call Center (KPIs & Performance)
-- Construção de KPIs operacionais para avaliação de desempenho
-- Desenvolvimento de dashboard para monitoramento de resultados
-- Identificação de gargalos e oportunidades de melhoria
-
-### 🧪 Análise de Experimento A/B
-- Avaliação estatística de experimento
-- Análise de funil de conversão
-- Interpretação de impacto em métricas de negócio
-
-### 📚 Análise de Plataforma de Livros (SQL)
-- Exploração de base de dados para identificar tendências
-- Identificação de oportunidades de crescimento
-- Queries complexas para extração de insights
-
-🔗 https://github.com/rodriguesbrian/tt14_call_center
+Currently, I focus on:
+- Turning raw data into actionable insights
+- Building clear dashboards to support decision-making
+- Identifying patterns and business opportunities
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 Featured Project
+
+### 📊 Call Center Analysis (KPIs & Performance)
+- Development of operational KPIs for performance evaluation
+- Development of dashboards for monitoring results
+- Identification of bottlenecks and opportunities for improvement
+
+### 🧪 A/B Testing Analysis
+- Statistical evaluation of experiments
+- Conversion funnel analysis
+- Interpretation of the impact on business metrics
+
+### 📚 Book Platform Analysis (SQL)
+- Database mining to identify trends
+- Identification of growth opportunities
+- Complex queries for extracting insights
+
+🔗 github.com/rodriguesbrian/tt14_call_center
+
+---
+
+## 🛠️ Tecnologies
 
 [![Tech Stack](https://skillicons.dev/icons?i=py,mysql,git,sklearn)](https://skillicons.dev/)
 
 ---
 
-## 📩 Contato
+## 📩 Contact
 
 <a href="mailto:rodrigues_brian@outlook.com">
   <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
